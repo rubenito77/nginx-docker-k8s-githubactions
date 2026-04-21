@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: your-dockerhub/nginx-app:latest
+          image: rubenitos77/nginx-docker-k8s-githubactions:latest
           ports:
             - containerPort: 80
