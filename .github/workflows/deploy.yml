@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: rubenito77/nginx-docker-k8s-githubactions
+      IMAGE_NAME: rubenitos77/nginx-docker-k8s-githubactions
       IMAGE_TAG: latest
 
     steps:
